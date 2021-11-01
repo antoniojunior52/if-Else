@@ -8,7 +8,9 @@ namespace o
         {
             var DiasSemana = DateTime.Now.DayOfWeek; 
 
-              Console.WriteLine("");// Espaço 
+              Console.WriteLine("");// Espaço
+              Console.WriteLine("");// Espaço
+              
             
             if (DiasSemana == DayOfWeek.Sunday)
             {
