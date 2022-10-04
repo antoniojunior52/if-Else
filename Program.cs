@@ -10,6 +10,7 @@ namespace o
 
               Console.WriteLine("");// Espaço
               Console.WriteLine("");// Espaço
+              Console.WriteLine("Hello Wolrd!!");
               
             
             if (DiasSemana == DayOfWeek.Sunday)
